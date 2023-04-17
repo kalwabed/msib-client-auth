@@ -27,8 +27,8 @@ const LoginPage = () => {
   return (
     <div className="container" style={{ marginTop: '200px' }}>
       <hgroup>
-        <h1>Welcome strangers! Do you know me?</h1>
-        <p>Please login to continue.</p>
+        <h1>Welcome my hero!</h1>
+        <p>Please sign in to continue.</p>
       </hgroup>
       <form onSubmit={handleOnSubmit}>
         <label htmlFor="email">Email</label>
