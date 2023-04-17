@@ -1,6 +1,5 @@
 import { NavLink } from 'react-router-dom'
 import useFetch from '../hooks/useFetch'
-import WithAuth from '../hoc/with-auth'
 
 function HomePage() {
   const { users, addNewUser, isLoading, removeUser, updateUser } = useFetch()
