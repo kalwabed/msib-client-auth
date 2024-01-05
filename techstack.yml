@@ -1,7 +1,8 @@
 repo_name: kalwabed/msib-client-auth
-report_id: de39614e44752306edecf9ca43ca4536
+report_id: cb1408354517ccce2c228f5a5785bf25
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:18:27+00:00'
+timestamp: '2024-01-05T08:53:55+00:00'
 requested_by: kalwabed
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/kalwabed/msib-client-auth
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kalwabed/msib-client-auth
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -62,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kalwabed/msib-client-auth
   detection_source: Repo Metadata
 - name: Vite
   description: Native-ESM powered web dev build tool
@@ -72,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/kalwabed/msib-client-auth/blob/main/package.json
   detection_source: package.json
   last_updated_by: kalwabed
   last_updated_on: 2023-04-06 14:49:36.000000000 Z
@@ -83,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kalwabed/msib-client-auth/blob/main/package.json
   detection_source: package.json
   last_updated_by: kalwabed
   last_updated_on: 2023-04-06 14:49:36.000000000 Z
@@ -92,6 +98,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/kalwabed/msib-client-auth/blob/main/index.html
   detection_source: index.html
   last_updated_by: kalwabed
   last_updated_on: 2023-04-06 14:49:36.000000000 Z
